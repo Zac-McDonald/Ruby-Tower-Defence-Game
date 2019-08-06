@@ -1,0 +1,370 @@
+[
+	{
+		"name": "crop_empty_east",
+		"texture": "crops.png",
+		"x": 0,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_empty_north",
+		"texture": "crops.png",
+		"x": 137,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_empty_west",
+		"texture": "crops.png",
+		"x": 274,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_empty_south",
+		"texture": "crops.png",
+		"x": 411,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_01_east",
+		"texture": "crops.png",
+		"x": 548,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_01_north",
+		"texture": "crops.png",
+		"x": 685,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_01_west",
+		"texture": "crops.png",
+		"x": 822,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_01_south",
+		"texture": "crops.png",
+		"x": 959,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+
+
+	{
+		"name": "crop_wheat_02_east",
+		"texture": "crops.png",
+		"x": 0,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_02_north",
+		"texture": "crops.png",
+		"x": 137,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_02_west",
+		"texture": "crops.png",
+		"x": 274,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_02_south",
+		"texture": "crops.png",
+		"x": 411,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_03_east",
+		"texture": "crops.png",
+		"x": 548,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_03_north",
+		"texture": "crops.png",
+		"x": 685,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_03_west",
+		"texture": "crops.png",
+		"x": 822,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_wheat_03_south",
+		"texture": "crops.png",
+		"x": 959,
+		"y": 169,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+
+
+	{
+		"name": "crop_pumpkin_01_east",
+		"texture": "crops.png",
+		"x": 0,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_01_north",
+		"texture": "crops.png",
+		"x": 137,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_01_west",
+		"texture": "crops.png",
+		"x": 274,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_01_south",
+		"texture": "crops.png",
+		"x": 411,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_02_east",
+		"texture": "crops.png",
+		"x": 548,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_02_north",
+		"texture": "crops.png",
+		"x": 685,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_02_west",
+		"texture": "crops.png",
+		"x": 822,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_02_south",
+		"texture": "crops.png",
+		"x": 959,
+		"y": 338,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+
+
+	{
+		"name": "crop_pumpkin_03_east",
+		"texture": "crops.png",
+		"x": 0,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_03_north",
+		"texture": "crops.png",
+		"x": 137,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_03_west",
+		"texture": "crops.png",
+		"x": 274,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_03_south",
+		"texture": "crops.png",
+		"x": 411,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_04_east",
+		"texture": "crops.png",
+		"x": 548,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_04_north",
+		"texture": "crops.png",
+		"x": 685,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_04_west",
+		"texture": "crops.png",
+		"x": 822,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_04_south",
+		"texture": "crops.png",
+		"x": 959,
+		"y": 507,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+
+
+	{
+		"name": "crop_pumpkin_05_east",
+		"texture": "crops.png",
+		"x": 0,
+		"y": 676,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_05_north",
+		"texture": "crops.png",
+		"x": 137,
+		"y": 676,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_05_west",
+		"texture": "crops.png",
+		"x": 274,
+		"y": 676,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "crop_pumpkin_05_south",
+		"texture": "crops.png",
+		"x": 411,
+		"y": 676,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	}
+]

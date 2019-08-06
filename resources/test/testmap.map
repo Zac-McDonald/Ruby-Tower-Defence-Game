@@ -1,0 +1,28 @@
+{
+	"name": "Test Map",
+	"width": 20,
+	"height": 20,
+	"tiles":
+	[
+		"xxxxxxxxxxxxxxxxxxxx",
+		"xxxxxxxxxxxxxxxxxxxx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx......BBB.......xx",
+		"xx......BBB.......xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xx................xx",
+		"xxxxxxxxxxxxxxxxxxxx",
+		"xxxxxxxxxxxxxxxxxxxx"
+	]
+}

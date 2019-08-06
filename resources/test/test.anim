@@ -1,0 +1,26 @@
+[
+	{
+		"name": "test_turret_anim",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "turret_02_east",
+				"duration": 700
+			},
+			{
+				"sprite": "turret_02_south",
+				"duration": 700
+			},
+			{
+				"sprite": "turret_02_west",
+				"duration": 700
+			},
+			{
+				"sprite": "turret_02_north",
+				"duration": 700
+			}
+		]
+	}
+]

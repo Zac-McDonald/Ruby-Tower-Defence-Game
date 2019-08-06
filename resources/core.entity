@@ -1,0 +1,139 @@
+[
+	{
+		"type": "turret",
+		"name": "Gatling Turret",
+		"health_max": 4,
+		"power_cost": 1,
+		"cost": 100,
+		"fire_rate": 2.5,
+		"damage": 1,
+		"range": 3,
+		"sprites":
+		{
+			"north": "turret_01_north",
+			"south": "turret_01_south",
+			"east": "turret_01_east",
+			"west": "turret_01_west"
+		}
+	},
+	{
+		"type": "turret",
+		"name": "Power Turret",
+		"health_max": 6,
+		"power_cost": 2,
+		"cost": 300,
+		"fire_rate": 1.0,
+		"damage": 2,
+		"range": 5,
+		"sprites":
+		{
+			"north": "turret_02_north",
+			"south": "turret_02_south",
+			"east": "turret_02_east",
+			"west": "turret_02_west"
+		}
+	},
+	{
+		"type": "enemy",
+		"name": "Crawler",
+		"health_max": 2,
+		"speed": 0.6,
+		"damage": 1,
+		"anim_walk":
+		{
+			"north": "enemy_walk_north",
+			"south": "enemy_walk_south",
+			"east": "enemy_walk_east",
+			"west": "enemy_walk_west"
+		},
+		"anim_attack":
+		{
+			"north": "enemy_attack_north",
+			"south": "enemy_attack_south",
+			"east": "enemy_attack_east",
+			"west": "enemy_attack_west"
+		}
+	},
+	{
+		"type": "crop",
+		"name": "Wheat",
+		"health_max": 2,
+		"cost": 100,
+		"harvest": 120,
+		"growth_time": 4,
+		"growth_sprites":
+		[
+			{
+				"north": "crop_empty_north",
+				"south": "crop_empty_south",
+				 "east": "crop_empty_east",
+				 "west": "crop_empty_west"
+			},
+			{
+				"north": "crop_wheat_01_north",
+				"south": "crop_wheat_01_south",
+				 "east": "crop_wheat_01_east",
+				 "west": "crop_wheat_01_west"
+			},
+			{
+				"north": "crop_wheat_02_north",
+				"south": "crop_wheat_02_south",
+				 "east": "crop_wheat_02_east",
+				 "west": "crop_wheat_02_west"
+			},
+			{
+				"north": "crop_wheat_03_north",
+				"south": "crop_wheat_03_south",
+				 "east": "crop_wheat_03_east",
+				 "west": "crop_wheat_03_west"
+			}
+		]
+	},
+	{
+		"type": "crop",
+		"name": "Pumpkins",
+		"health_max": 5,
+		"cost": 100,
+		"harvest": 150,
+		"growth_time": 6,
+		"growth_sprites":
+		[
+			{
+				"north": "crop_empty_north",
+				"south": "crop_empty_south",
+				 "east": "crop_empty_east",
+				 "west": "crop_empty_west"
+			},
+			{
+				"north": "crop_pumpkin_01_north",
+				"south": "crop_pumpkin_01_south",
+				 "east": "crop_pumpkin_01_east",
+				 "west": "crop_pumpkin_01_west"
+			},
+			{
+				"north": "crop_pumpkin_02_north",
+				"south": "crop_pumpkin_02_south",
+				 "east": "crop_pumpkin_02_east",
+				 "west": "crop_pumpkin_02_west"
+			},
+			{
+				"north": "crop_pumpkin_03_north",
+				"south": "crop_pumpkin_03_south",
+				 "east": "crop_pumpkin_03_east",
+				 "west": "crop_pumpkin_03_west"
+			},
+			{
+				"north": "crop_pumpkin_04_north",
+				"south": "crop_pumpkin_04_south",
+				 "east": "crop_pumpkin_04_east",
+				 "west": "crop_pumpkin_04_west"
+			},
+			{
+				"north": "crop_pumpkin_05_north",
+				"south": "crop_pumpkin_05_south",
+				 "east": "crop_pumpkin_05_east",
+				 "west": "crop_pumpkin_05_west"
+			}
+		]
+	}
+]

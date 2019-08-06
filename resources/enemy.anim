@@ -1,0 +1,194 @@
+[
+	{
+		"name": "enemy_walk_east",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_walk_01_east",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_02_east",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_03_east",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_04_east",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_walk_north",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_walk_01_north",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_02_north",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_03_north",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_04_north",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_walk_south",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_walk_01_south",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_02_south",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_03_south",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_04_south",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_walk_west",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_walk_01_west",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_02_west",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_03_west",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_walk_04_west",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_attack_east",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_attack_01_east",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_02_east",
+				"duration": 200
+			},
+			{
+				"sprite": "enemy_attack_03_east",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_04_east",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_attack_north",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_attack_01_north",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_02_north",
+				"duration": 200
+			},
+			{
+				"sprite": "enemy_attack_03_north",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_04_north",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_attack_west",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_attack_01_west",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_02_west",
+				"duration": 200
+			},
+			{
+				"sprite": "enemy_attack_03_west",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_04_west",
+				"duration": 100
+			}
+		]
+	},
+	{
+		"name": "enemy_attack_south",
+		"play_mode": "play_once",
+		"loop": true,
+		"frames":
+		[
+			{
+				"sprite": "enemy_attack_01_south",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_02_south",
+				"duration": 200
+			},
+			{
+				"sprite": "enemy_attack_03_south",
+				"duration": 100
+			},
+			{
+				"sprite": "enemy_attack_04_south",
+				"duration": 100
+			}
+		]
+	}
+]

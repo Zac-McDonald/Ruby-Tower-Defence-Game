@@ -1,0 +1,42 @@
+[
+	{
+		"name": "test_full",
+		"texture": "test_tiles.png",
+		"x": 0,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "test_empty",
+		"texture": "test_tiles.png",
+		"x": 137,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "test_restrict",
+		"texture": "test_tiles.png",
+		"x": 274,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	},
+	{
+		"name": "test_base",
+		"texture": "test_tiles.png",
+		"x": 411,
+		"y": 0,
+		"ox": 68,
+		"oy": 96,
+		"width": 137,
+		"height": 169
+	}
+]

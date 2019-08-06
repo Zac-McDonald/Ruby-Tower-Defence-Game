@@ -1,0 +1,42 @@
+[
+	{
+		"name": "fence_preview",
+		"texture": "fence_preview.png",
+		"x": 0,
+		"y": 0,
+		"ox": 68,
+		"oy": 24,
+		"width": 137,
+		"height": 97
+	},
+	{
+		"name": "fence_post",
+		"texture": "fence.png",
+		"x": 73,
+		"y": 24,
+		"ox": 8,
+		"oy": 24,
+		"width": 17,
+		"height": 29
+	},
+	{
+		"name": "fence_rail_NS",
+		"texture": "fence.png",
+		"x": 154,
+		"y": 0,
+		"ox": 64,
+		"oy": 16,
+		"width": 65,
+		"height": 45
+	},
+	{
+		"name": "fence_rail_EW",
+		"texture": "fence.png",
+		"x": 219,
+		"y": 0,
+		"ox": 0,
+		"oy": 16,
+		"width": 65,
+		"height": 45
+	}
+]

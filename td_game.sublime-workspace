@@ -1,0 +1,1379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"neighbou",
+				"neighbour_costs"
+			],
+			[
+				"update_field",
+				"update_fields_timer"
+			],
+			[
+				"gamestate",
+				"gamestate_can_afford"
+			],
+			[
+				"mouse_vec",
+				"mouse_vector_world"
+			],
+			[
+				"heal",
+				"base_health_max"
+			],
+			[
+				"health",
+				"health_max"
+			],
+			[
+				"sprites",
+				"spritesheet"
+			],
+			[
+				"spritesheet",
+				"resources_load_spritesheets"
+			],
+			[
+				"resources",
+				"resources_load_spritesheets"
+			],
+			[
+				"resources_loa",
+				"resources_load_textures"
+			],
+			[
+				"Print",
+				"PrintCheck"
+			],
+			[
+				"Genera",
+				"GeneratePayroll"
+			],
+			[
+				"Update",
+				"UpdateEmployeeRecord"
+			],
+			[
+				"SS",
+				"CalculateSSWithheld"
+			],
+			[
+				"Tax",
+				"CalculateTaxWithheld"
+			],
+			[
+				"Calc",
+				"CalculateNetPay"
+			],
+			[
+				"GetP",
+				"GeneratePayroll"
+			],
+			[
+				"Read",
+				"ReadPayrollRecord"
+			],
+			[
+				"Get",
+				"GetPayrollRecord"
+			],
+			[
+				"Gener",
+				"GeneratePayroll"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"width",
+				"max-width\tproperty"
+			],
+			[
+				"other",
+				"skills_other"
+			],
+			[
+				"skills",
+				"skills_other"
+			],
+			[
+				"date_create",
+				"date_create_from_format"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"food_ch",
+				"food_change_timer"
+			],
+			[
+				"food_cha",
+				"food_change_dir_interval"
+			],
+			[
+				"food_change",
+				"food_change_timer"
+			],
+			[
+				"scroll_w",
+				"scroll_width_secondary"
+			],
+			[
+				"queue_t",
+				"queue_track_at_top"
+			],
+			[
+				"queue_Track",
+				"queue_track_at_top"
+			],
+			[
+				"move_queue",
+				"move_to_top_of_queue"
+			],
+			[
+				"play_",
+				"play_track"
+			],
+			[
+				"track-pa",
+				"track-panel-queue"
+			],
+			[
+				"track-panel",
+				"track-panel-play"
+			],
+			[
+				"queue-panel-",
+				"queue-panel-clear"
+			],
+			[
+				"playing-p",
+				"playing-panel-volume"
+			],
+			[
+				"0x",
+				"0xff_ffffff"
+			],
+			[
+				"zebra",
+				"zebra-dark"
+			],
+			[
+				"exp",
+				"expire_date"
+			],
+			[
+				"expire",
+				"expireTime"
+			],
+			[
+				"dsi",
+				"display_timer"
+			],
+			[
+				"errr",
+				"error-msg"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"pre",
+				"pre-wrap\twhite-space"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"ref_num",
+				"ref_num_1"
+			],
+			[
+				"job",
+				"job_html_format"
+			],
+			[
+				"noj",
+				"no_jobs_html"
+			],
+			[
+				"ref",
+				"ref_num"
+			],
+			[
+				"at",
+				"at_least_one_checked"
+			],
+			[
+				"valid",
+				"valid_postcodes"
+			],
+			[
+				"date",
+				"date_string"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"skil",
+				"skills_check"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"skill",
+				"skills_check"
+			],
+			[
+				"load_",
+				"load_job_ref_num"
+			],
+			[
+				"setup_",
+				"setup_apply"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"print_albu",
+				"print_albums_short"
+			],
+			[
+				"print_alb",
+				"print_albums_short"
+			],
+			[
+				"read_album",
+				"read_album_collection_from_file"
+			],
+			[
+				"edit",
+				"edit_page\tstatement"
+			],
+			[
+				"edi",
+				"edit_url\tstatement"
+			],
+			[
+				"max",
+				"max_pastes\tparam"
+			],
+			[
+				"post",
+				"post_url\tstatement"
+			],
+			[
+				"raw",
+				"raw_url\tstatement"
+			],
+			[
+				"de",
+				"dev_key\tstatement"
+			],
+			[
+				"set",
+				"set_user_key\tfunction"
+			],
+			[
+				"user",
+				"user_key\tstatement"
+			],
+			[
+				"api_lo",
+				"api_login_response"
+			],
+			[
+				"use",
+				"user_key\tparam"
+			],
+			[
+				"api",
+				"apilogin_url\tstatement"
+			],
+			[
+				"Sess",
+				"Session\tclass"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"tra",
+				"transform-style\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"bac",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"wra",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"main",
+				"main-text-color"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"enh",
+				"enhance-button-color"
+			],
+			[
+				"mai",
+				"main-background-color"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"butt",
+				"enhance-button-color"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"border-col",
+				"border-color\tproperty"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"do",
+				"double\tborder-left"
+			],
+			[
+				"enhance",
+				"enhancements"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"en",
+				"enhance-button-color"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"aler",
+				"alert-color"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"box-s",
+				"box-sizing\tproperty"
+			],
+			[
+				"nav",
+				"nav-hover-outline-color"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"enhan",
+				"Enhancements"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"Mesa",
+				"MeasureShow"
+			],
+			[
+				"MeasurePla",
+				"MeasurePlayType"
+			],
+			[
+				"0xff_",
+				"0xff_ffffff"
+			],
+			[
+				"draw_qua",
+				"draw_quad_solid"
+			],
+			[
+				"off",
+				"offset\tfunc"
+			],
+			[
+				"offset",
+				"offsetList\tstatement"
+			],
+			[
+				"shirt_",
+				"shirt_sleeve"
+			],
+			[
+				"shirt_b",
+				"shirt_beige_shadow"
+			],
+			[
+				"shirt_be",
+				"shirt_beige_light"
+			],
+			[
+				"setga",
+				"setgame_game"
+			],
+			[
+				"target",
+				"target_dir"
+			],
+			[
+				"dow",
+				"downloadFile\tfunction"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"file",
+				"fileUrl\tstatement"
+			],
+			[
+				"Down",
+				"DownloadFile\tfunction"
+			],
+			[
+				"m",
+				"mkdir\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/td_game.rb",
+			"settings":
+			{
+				"buffer_size": 657,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/window.rb",
+			"settings":
+			{
+				"buffer_size": 3166,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/one_big_file.rb",
+			"settings":
+			{
+				"buffer_size": 892,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/gamestate.rb",
+			"settings":
+			{
+				"buffer_size": 7794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/level.rb",
+			"settings":
+			{
+				"buffer_size": 9676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "rakefile.rb",
+			"settings":
+			{
+				"buffer_size": 335,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/turret.rb",
+			"settings":
+			{
+				"buffer_size": 1546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/simulation.rb",
+			"settings":
+			{
+				"buffer_size": 7996,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/constants.rb",
+			"settings":
+			{
+				"buffer_size": 606,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/td_game/vector2.rb",
+			"settings":
+			{
+				"buffer_size": 1685,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"json ",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"disab",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"irb",
+			"exit()",
+			"cd \"../\"",
+			"cd",
+			"cd \".\"",
+			"cd .",
+			"os.listdir()",
+			"import os",
+			"os.listdir()",
+			"ls",
+			"x + 2",
+			"x = 3",
+			"a",
+			"exit",
+			"abort",
+			"\\X",
+			"exit()",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/bin",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/config",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test"
+	],
+	"file_history":
+	[
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Zac_McDonald_Custom_Program_All.txt",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/gamestate.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/one_big_file.rb",
+		"/E/Users/Zac McDonald/Desktop/testing releasy/rakefile.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/rakefile.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/fences_test.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/enemy.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/constants.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/turret.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/cropplot.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/resources.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/level.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test/test.anim",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/enemy.anim",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/enemy.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/building.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/potential_field.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/ui.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/tiles.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/styles/style.css",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/scripts/apply.js",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/common_ui.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test/testmap.map",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/crops.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/bin/td_game.rbw",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Tasks/7.2C - GUI Music Player/gui_music_player.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test/test_tiles.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/select_line.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/input.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/fence.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/turrets.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test/test.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/barn.sheet",
+		"/C/Users/Zac McDonald/AppData/Local/Programs/Ruby/Ruby25-x64/lib/ruby/gems/2.5.0/gems/gosu-examples-1.0.5/examples/cptn_ruby.rb",
+		"/E/Users/Zac McDonald/Documents/Visual Studio 2017/Projects/EcosystemRoguelike/EcosystemRoguelike/EcosystemGame.cs",
+		"/E/Users/Zac McDonald/Documents/Visual Studio 2017/Projects/EcosystemRoguelike/EcosystemRoguelike/Map.cs",
+		"/E/Users/Zac McDonald/Documents/Visual Studio 2017/Projects/EcosystemRoguelike/EcosystemRoguelike/Program.cs",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/hero.entity",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/entities_stats.entity",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/original_tmx/common_secret_room_11x9_small_chests.tmx",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/original_tmx/MapTileset.tsx",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/mapfile.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test.anim",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/test.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/testmap.map",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/equipment_db.xml",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/heroes.png",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/heroes.anim",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/shopkeeper.sheet",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/heroes.sheet",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/shopkeeper.anim",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/shadow.sheet",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/resources/resources.json",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Tasks/8.3D - Foodhunter/foodhunter.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/td_game.sublime-project",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/fonts/console.xml",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/media/resources.json",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/intro/rothar.anim",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/gui/achievements.sheet",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/enemies.entity",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/sound/music.soundbank",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/sound/fx.soundbank",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/entities/enemies.sheet",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/lang/english.lang",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/database/lang/german.lang",
+		"/E/Steam Library/steamapps/common/QuestofDungeons/GameResources/effects/level_up.particle",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/td_game.sublime-workspace",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/gosu_skeleton.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Tower Defence Game/lib/td_game/window.rb",
+		"/C/Users/Zac McDonald/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/Portable Programs/MagicaVoxel-0.99.4-alpha-win64/config/config.txt",
+		"/E/Users/Zac McDonald/Desktop/graphviz/test.dot",
+		"/C/Users/Zac McDonald/Temporary Storage/graphvizer.png",
+		"/C/Users/Zac McDonald/AppData/Roaming/Sublime Text 3/Packages/User/Graphvizer.sublime-settings",
+		"/C/Users/Zac McDonald/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Zac McDonald/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Graphvizer.sublime-settings",
+		"/C/Users/Zac McDonald/AppData/Roaming/Sublime Text 3/Packages/Graphvizer/Default (Windows).sublime-keymap",
+		"/c/users/zacmcd~2/appdata/local/temp/graphvizer.png",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa1288.1373/Resources/gui_music_player.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/settings.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/cars_add.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/footer.inc",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab09/processbooking.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/cars_search.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/apply.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/index.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/jobs.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/header.inc",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/manage.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/enhancements2.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/enhancements.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/processEOI.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/login.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/scripts/enhancements.js",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/phpenhancements.php",
+		"/E/Users/Zac McDonald/Documents/MagicaVoxel-0.99.4-alpha-win64/config/config.txt",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Tasks/12.1C - Test Harness/tester_demo.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Assignments/Part 3/assign3/about.php",
+		"/E/Users/Zac McDonald/Documents/Visual Studio 2017/Projects/iCUE HTTP Server/Complete/controllers/rotmg.py",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/cars_display.php",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa11360.15313/HookTests/Assets/Scripts/Player.cs",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa11360.15649/HookTests/Assets/Scripts/Target.cs",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/settings.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab08/factorial.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab08/mathfunctions.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab08/myfirst.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/Custom Bitmaps/custom_bitmaps.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/searchcar.html",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab10/addcar.html",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Tasks/7.1P - Music Player with Menu/music_player_with_menu.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/TNE10006 - Networks and Switching/research-task-script.txt",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Tasks/10.4HD - Maze Search/gosu-maze-search.rb",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab09/register.html",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab08/daysarray.php",
+		"/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10011 - Creating Web Applications/Labs/lab02/outline.html",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.38893/mods/base/req/BLTPersistScripts.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.22903/mods/base/base.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21651/mods/base/lua/GameSetup.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.13444/mods/base/req/core/Hooks.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.41291/mods/base/base.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.10996/mods/base/lua/GameSetup.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.12510/mods/base/lua/NetworkManager.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21380/mods/base/lua/BaseNetworkSession.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21380/mods/base/lua/ChatManager.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21380/mods/base/lua/CoreMenuItemSlider.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21380/mods/base/lua/CoreMenuLogic.lua",
+		"/C/Users/ZACMCD~2/AppData/Local/Temp/Rar$DRa12888.21380/mods/base/lua/CorePatchLua.lua"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"@",
+			"to_f",
+			"\"ox\": 68,\n\t\t\"oy\": 96,",
+			"\"ox\": 68,\n\t\t\"oy\": 130,",
+			"\"duration\": 200",
+			"\"ox\": 68,\n\t\t\"oy\": 96,",
+			"\"crops.png\"",
+			"default_value",
+			"8",
+			"3",
+			"\"ox\": 28,\n\t\t\"oy\": 28,",
+			"112",
+			"56",
+			"can_build",
+			"?",
+			"spacing_x_y",
+			"power_spacing",
+			"power_offset",
+			"sprite",
+			"new_camera_pos",
+			"build_vars\\[",
+			"\"ox\": 0,\n\t\t\"oy\": 0,",
+			"}",
+			"\\\"",
+			"//\n",
+			"enhance_js",
+			"button",
+			"echo \"<th>(.+)</th>\"",
+			"echo \"<th>(.)+</th>\"",
+			"\\./.+.html",
+			".html",
+			"html",
+			";",
+			"track_info",
+			"next_button",
+			"previous_button",
+			": ",
+			"playing",
+			"mp3",
+			"cancel",
+			"tracks_scroll_info_img",
+			"album_tracks_scroll",
+			"mouse_in_panel",
+			"do_thing",
+			"alert",
+			"save_local_data",
+			"windows",
+			"media/",
+			"apilogin_url",
+			"api_login_response",
+			"tooltip=",
+			"jobs",
+			"apply",
+			"enhance-button-hover-color",
+			"enhance-button-color",
+			"nav-hover-outline-color",
+			"left",
+			"h2",
+			"h3",
+			"h4",
+			"h3",
+			"h4",
+			"((i == 0) ? text_background : text_foreground)",
+			"i, x, y)",
+			"i, (i == 0) ? x : 0, (i == 0) ? y : 0)",
+			"0 : (i == 0) ? text_background : text_foreground,",
+			"(i == 0) text_background : text_foreground",
+			"0 : (i == 0) text_background : text_foreground, ZOrder::TOP + i)",
+			"0 : text_foreground, ZOrder::TOP + i)",
+			"drawBackground",
+			"drawArm",
+			"drawFace",
+			"drawBody",
+			"drawHead",
+			"&"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"ox\": 68,\n\t\t\"oy\": 130,",
+			"\"ox\": 68,\n\t\t\"oy\": 96,",
+			"\"duration\": 100",
+			"\"ox\": 68,\n\t\t\"oy\": 130,",
+			"\"enemy.png\"",
+			"\"ox\": 14,\n\t\t\"oy\": 14,",
+			"56",
+			"28",
+			"spacing_y",
+			"spacing_x",
+			"offset",
+			"\"ox\": 68,\n\t\t\"oy\": 96,",
+			"\\\\\"",
+			"\\\"",
+			"echo \"<tr>\\\\n\"\n\t\t\t\t\t.\"<th>\\1</th>\\\\n\"\n\t\t\t\t\t.\"<td>\"..\"</td>\\\\n\"\n\t\t\t\t\t.\"</tr>\";",
+			"echo \"<tr>\\n\"\n\t\t\t\t\t.\"<th>\\1</th>\\\\n\"\n\t\t\t\t\t.\"<td>\"..\"</td>\\\\n\"\n\t\t\t\t\t.\"</tr>\";",
+			"echo \"<tr>\\n\"\n\t\t\t\t\t.\"<th>\\1</th>\\n\"\n\t\t\t\t\t.\"<td>\"..\"</td>\\n\"\n\t\t\t\t\t.\"</tr>\";",
+			"echo \"<tr>\\n\"\n\t\t\t\t\t.\"<th>$1</th>\\n\"\n\t\t\t\t\t.\"<td>\"..\"</td>\\n\"\n\t\t\t\t\t.\"</tr>\";",
+			"echo \"<tr>\\n\"\n\t\t\t\t\t.\"<th>\\1</th>\\n\"\n\t\t\t\t\t.\"<td>\".$eoiNumber.\"</td>\\n\"\n\t\t\t\t\t.\"</tr>\";",
+			"next_song",
+			"previous_song",
+			"ogg",
+			"tracks_scroll_img",
+			"tracks_scroll_info",
+			"mouse_over_panel",
+			"save_job_ref_num",
+			"login_url",
+			"response",
+			"data-tooltip=",
+			"button-hover-color",
+			"button-color",
+			"hover-color",
+			"h3",
+			"h4",
+			"h3",
+			"h4",
+			"h5",
+			"(i == 0) ? text_background : text_foreground",
+			"i, (i == 0) ? x : 0, (i == 0) ? y : 0)",
+			"0 : ((i == 0) ? text_background : text_foreground),",
+			"(i == 0) ? text_background : text_foreground",
+			"0 : (i == 0) text_background : text_foreground, ZOrder::TOP + i, x, y)",
+			"0 : (i == 0) text_background : text_foreground, ZOrder::TOP + i)",
+			"draw_background",
+			"draw_arm",
+			"draw_face",
+			"draw_body",
+			"draw_head",
+			"&amp;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/td_game.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/td_game/window.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Users/Zac McDonald/OneDrive - Swinburne University/COS10009 - Intro to Programming/Assignments/one_big_file.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/td_game/gamestate.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1338,
+								1338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 487.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/td_game/level.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8523,
+								8523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5959.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "rakefile.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/td_game/turret.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/td_game/simulation.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7996,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3273,
+								3273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1444.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "lib/td_game/constants.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "lib/td_game/vector2.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.graphvizer_panel":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "Test Game",
+	"project": "td_game.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Zac McDonald\\AppData\\Roaming\\Sublime Text 3\\default.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 270.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

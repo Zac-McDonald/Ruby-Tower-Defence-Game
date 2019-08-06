@@ -1,0 +1,92 @@
+[
+	{
+		"name": "energy_full",
+		"texture": "ui.png",
+		"x": 0,
+		"y": 0,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "energy_half",
+		"texture": "ui.png",
+		"x": 28,
+		"y": 0,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "energy_empty",
+		"texture": "ui.png",
+		"x": 56,
+		"y": 0,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "heart_full",
+		"texture": "ui.png",
+		"x": 0,
+		"y": 28,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "heart_half",
+		"texture": "ui.png",
+		"x": 28,
+		"y": 28,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "heart_empty",
+		"texture": "ui.png",
+		"x": 56,
+		"y": 28,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "currency",
+		"texture": "ui.png",
+		"x": 0,
+		"y": 56,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "enemy_icon",
+		"texture": "ui.png",
+		"x": 28,
+		"y": 56,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	},
+	{
+		"name": "round_icon",
+		"texture": "ui.png",
+		"x": 56,
+		"y": 56,
+		"ox": 14,
+		"oy": 14,
+		"width": 28,
+		"height": 28
+	}
+]

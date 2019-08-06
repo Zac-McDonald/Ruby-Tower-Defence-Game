@@ -1,0 +1,46 @@
+[
+	{
+		"name": "barn_east",
+		"texture": "barn.png",
+		"x": 0,
+		"y": 0,
+		"ox": 132,
+		"oy": 96,
+		"span_x": 3,
+		"span_y": 2,
+		"width": 329,
+		"height": 265
+	},
+	{
+		"name": "barn_north",
+		"texture": "barn.png",
+		"x": 329,
+		"y": 0,
+		"ox": 196,
+		"oy": 96,
+		"span_x": 2,
+		"span_y": 3,
+		"width": 329,
+		"height": 265
+	},
+	{
+		"name": "barn_west",
+		"texture": "barn.png",
+		"x": 658,
+		"y": 0,
+		"ox": 132,
+		"oy": 96,
+		"width": 329,
+		"height": 265
+	},
+	{
+		"name": "barn_south",
+		"texture": "barn.png",
+		"x": 987,
+		"y": 0,
+		"ox": 196,
+		"oy": 96,
+		"width": 329,
+		"height": 265
+	}
+]

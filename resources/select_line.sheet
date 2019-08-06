@@ -1,0 +1,22 @@
+[
+	{
+		"name": "select_line_NS",
+		"texture": "select_line.png",
+		"x": 4,
+		"y": 4,
+		"ox": 73,
+		"oy": 4,
+		"width": 81,
+		"height": 45
+	},
+	{
+		"name": "select_line_EW",
+		"texture": "select_line.png",
+		"x": 93,
+		"y": 4,
+		"ox": 7,
+		"oy": 4,
+		"width": 81,
+		"height": 45
+	}
+]
